@@ -1,7 +1,16 @@
 module.exports = {
-  "extends": [
+  extends: [
     "eslint:recommended",
   ],
-  "parser": "babel-eslint"
+  env: {
+    browser: true,
+    node:true
+  },
+  parser: "babel-eslint",
+  rules:{
+    'no-alert': 0,
+    'no-console': 0,
+    'global-require': 0,
+  }
 };
 

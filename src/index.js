@@ -1,6 +1,6 @@
 import logMessage from './js/logger'
 import './css/style.css'
-
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 // Log message to console
 logMessage('Its finished!!')
 
