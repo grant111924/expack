@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "type": "NK_ALARM_HIGH",
+      "event": [
+        {
+          "timestamp": "19:42:03",
+          "timesLength": 35
+        },
+        {
+          "timestamp": "20:07:13",
+          "timesLength": 10
+        },
+        {
+          "timestamp": "20:07:40",
+          "timesLength": 5
+        }
+      ],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    },
+    {
+      "type": "NK_ALARM_MED",
+      "event": [
+        {
+          "timestamp": "20:03:29",
+          "timesLength": 40
+        }
+      ],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    },
+    {
+      "type": "NK2_ALARM_HIGH",
+      "event": [
+        {
+          "timestamp": "20:08:52",
+          "timesLength": 5
+        },
+        {
+          "timestamp": "20:09:06",
+          "timesLength": 5
+        }
+      ],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    },
+    {
+      "type": "NK2_ALARM_MED",
+      "event": [],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    },
+    {
+      "type": "Breather Alarm",
+      "event": [],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    },
+    {
+      "type": "Nurse Bell",
+      "event": [],
+      "timesPerDay": 0,
+      "timesTotal": 0,
+      "timesAvgLength": 0
+    }
+  ]
+}
